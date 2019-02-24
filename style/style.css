@@ -1,0 +1,55 @@
+.boxincircle {
+    /* display: flex;
+    flex-direction: row;
+    /* justify-content: center; */
+    /* align-items: center; */ 
+    /*I can't get the flex-box to work!!! */
+    margin: 40px 40px;
+    height: 120px;
+    width: 120px;
+    background-color: green;
+}
+.container {
+    /* display: flex;
+    justify-content: flex-end; */
+    height:100px;
+    margin-left: 100px;
+    width:100px;
+    background-color: green;
+}
+.circle {
+    background-color: blue;
+    border: solid 1px blue;
+    border-radius: 200px; 
+    height: 200px;
+    width: 200px;
+}
+#circle-border {
+    border: solid 10px orange;
+}
+div {
+    background-color: orange;
+    height: 200px;
+    width: 200px;
+}
+.border{
+    border: solid 15px blue;
+}
+header, footer {
+    background-color:gray;
+    padding: 30px;
+}
+h1, footer a {
+    color:white;
+}
+header {
+    border-bottom: solid;
+}
+footer {
+    border-top: solid;
+}
+main {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
